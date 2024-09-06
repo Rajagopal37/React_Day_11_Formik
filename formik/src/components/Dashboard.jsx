@@ -1,5 +1,5 @@
 import React from "react";
-import BookManagement from "./BookManagement";
+import BookManagement from "./BookMAnagement";
 import AuthorManagement from "./AuthorManagement";
 
 const Dashboard = () => (
