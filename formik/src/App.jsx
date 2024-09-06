@@ -3,7 +3,9 @@ import Dashboard from "./components/Dashboard";
 
 const App = () => (
   <>
-    <Dashboard />
+    <div className="d-flex justify-content-center align-items-center">
+      <Dashboard />
+    </div>
   </>
 );
 

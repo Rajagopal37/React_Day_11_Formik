@@ -5,8 +5,10 @@ import AuthorManagement from "./AuthorManagement";
 const Dashboard = () => (
   <div className="container mt-4">
     <h1>Library Management Dashboard</h1>
-    <BookManagement />
-    <AuthorManagement />
+    <div className="d-flex justify-content-center align-items-center">
+      <BookManagement />
+      <AuthorManagement />
+    </div>
   </div>
 );
 

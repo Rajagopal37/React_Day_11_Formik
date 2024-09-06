@@ -5,10 +5,10 @@ const initialBooks = [
   // Example initial books
   {
     id: 1,
-    title: "1984",
-    author: "George Orwell",
-    isbn: "1234567890",
-    publicationDate: "1949-06-08",
+    title: "Ponniyin Selvan",
+    author: "	Kalki Krishnamurthy",
+    isbn: "	9789672811275",
+    publicationDate: "1950-10-29",
   },
 ];
 

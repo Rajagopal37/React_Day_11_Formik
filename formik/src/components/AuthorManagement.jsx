@@ -5,9 +5,9 @@ const initialAuthors = [
   // Example initial authors
   {
     id: 1,
-    name: "J.K. Rowling",
-    birthDate: "1965-07-31",
-    biography: "British author, best known for the Harry Potter series.",
+    name: "Kalki Krishnamurthy",
+    birthDate: "1899-09-09",
+    biography: "Indian Tamil language author, best known for Kalki Navel.",
   },
 ];
 
